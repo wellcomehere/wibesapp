@@ -1,0 +1,8 @@
+
+.bx-wrapper{max-width: 250px!important} 
+.bx-wrapper .bx-next,.bx-prev{
+	visibility: hidden;
+}
+/*.bx-wrapper .bx-prev{
+
+}*/
